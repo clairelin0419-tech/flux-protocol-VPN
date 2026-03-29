@@ -1,2 +1,1 @@
-# flux-protocol-VPN
-AI-generated VPN protocol
+# README content here
